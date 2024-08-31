@@ -34,8 +34,8 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/angular-dynamic-table.git
-   cd angular-dynamic-table
+   git clone https://github.com/anmolpandey299/Automateazy_task.git
+   cd Angular_task/dynamic-table-app
    npm install
 
 2. **Running the Project:**
