@@ -13,8 +13,8 @@ This is a simple user authentication API built with Express.js. It includes rout
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/simple-auth-api.git
-    cd simple-auth-api
+    git clone https://github.com/anmolpandey299/Automateazy_task.git
+    cd NodeJS_task
     ```
 
 2. Install the required dependencies:
