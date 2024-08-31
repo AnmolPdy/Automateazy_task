@@ -15,6 +15,7 @@ mongoose.connect(process.env.MONGO_URL).then(()=>{
 
 app.use(express.json());
 
+const userRouter=require("./routes/user")
 
 
 
@@ -27,3 +28,4 @@ app.get('/',(req,res)=>{
     res.send("Hello world")
 })
 
+app.use('/',userRouter);
